@@ -1,4 +1,4 @@
 Esto es un texto de prueba.
 Modificado.
-Agregado.
+Agregado y ahora modificado.
 Fin de la prueba
