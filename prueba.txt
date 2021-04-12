@@ -1,4 +1,6 @@
 Esto es un texto de prueba.
 Modificado.
 Agregado y ahora modificado.
+Agregado para SSH
+Agregado para volver a https
 Fin de la prueba
